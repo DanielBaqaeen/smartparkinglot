@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## University of Hartford Smart Parking Lot Project
 
 You can use the [editor on GitHub](https://github.com/piper56M/smartparkinglot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
