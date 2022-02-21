@@ -6,5 +6,6 @@ A big problem the University of Hartford commuter population faces is parking. O
 - **Maggie Piotrowski**
 (https://piotrowsk.wixsite.com/magdalenepiotrowski)
 
-
+- **Rachel Liang**
+(https://rachelrliang.wixsite.com/digital-resume)
 
