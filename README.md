@@ -9,3 +9,5 @@ A big problem the University of Hartford commuter population faces is parking. O
 - **Rachel Liang**
 (https://rachelrliang.wixsite.com/digital-resume)
 
+- **Daniel Baqaeen**
+(https://github.com/DanielBaqaeen)
